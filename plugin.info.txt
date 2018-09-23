@@ -1,0 +1,7 @@
+base        quote
+name        Quote Plugin
+desc        Insert quote button
+author      Vsevolod Lutovinov
+email       klopp@yandex.ru
+url         https://localhost/
+date        2018-23-09
