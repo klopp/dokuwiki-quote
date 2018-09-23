@@ -1,2 +1,2 @@
-# dukuwiki-quote
+# dokuwiki-quote
 DokuWiki "Quote" button
