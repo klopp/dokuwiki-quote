@@ -3,5 +3,5 @@ name        Quote Plugin
 desc        Insert quote button
 author      Vsevolod Lutovinov
 email       klopp@yandex.ru
-url         https://localhost/
+url         https://github.com/klopp/dokuwiki-quote
 date        2018-23-09
